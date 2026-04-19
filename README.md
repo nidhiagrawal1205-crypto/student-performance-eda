@@ -51,7 +51,13 @@ The goal isn't just to visualize data — it's to extract **meaningful, real-wor
 
 📂 Dataset
 
--> **Source:** [Students Performance in Exams — Kaggle](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+-> **Source:** [Students Performance in Exams — Kaggle](https://www.kaggle.com/datasets/spscientist/students- performance-in-exams) 
 -> **Size:** 1,000 rows × 8 columns
--> **Features:** Gender, Race/Ethnicity, Parental Education, Lunch Type, Test Prep Course, Math Score, Reading Score, Writing Score
+-> **Features:** Gender, Race/Ethnicity, Parental Education, Lunch Type, Test Prep Course, Math Score, Reading Score, Writing Score.
+
+ 🙋 About Me
+
+I'm a data enthusiast passionate about finding stories hidden in structured data.  
+This project is part of my journey into data analytics — combining Python, statistical thinking, and visual storytelling.
+Connect with me on [LinkedIn](www.linkedin.com/in/nidhi-agrawal-8596292b1)
 
