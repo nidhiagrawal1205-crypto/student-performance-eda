@@ -49,6 +49,12 @@ The goal isn't just to visualize data — it's to extract **meaningful, real-wor
 | Matplotlib| Data visualization |
 | Jupyter Notebook| Interactive analysis environment |
 
+📦 Requirements:
+
+pandas
+matplotlib
+jupyter
+
 📂 Dataset
 
 -> **Source:** [Students Performance in Exams — Kaggle](https://www.kaggle.com/datasets/spscientist/students- performance-in-exams) 
